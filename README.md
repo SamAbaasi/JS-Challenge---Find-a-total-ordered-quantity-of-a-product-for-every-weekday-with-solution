@@ -1,0 +1,1 @@
+# JS-Challenge---Find-a-total-ordered-quantity-of-a-product-for-every-weekday
