@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.011">
+ <testsuite name="OrdersAnalyzer" timestamp="2022-07-29T11:05:58" hostname="localhost" time="0.006" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="OrdersAnalyzer.stationery dataset totalQuantity" timestamp="2022-07-29T11:05:58" hostname="localhost" time="0.005" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="OrdersAnalyzer.stationery dataset totalQuantity" name="should return correct values for 1746" time="0.001" />
+  <testcase classname="OrdersAnalyzer.stationery dataset totalQuantity" name="should return correct values for 3433" time="0" />
+  <testcase classname="OrdersAnalyzer.stationery dataset totalQuantity" name="should return correct values for 4098" time="0.001" />
+  <testcase classname="OrdersAnalyzer.stationery dataset totalQuantity" name="should return correct values for 5723" time="0" />
+  <testcase classname="OrdersAnalyzer.stationery dataset totalQuantity" name="should return correct values for 9872" time="0" />
+ </testsuite>
+</testsuites>

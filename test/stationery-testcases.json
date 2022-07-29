@@ -1,0 +1,47 @@
+{
+  "1746": {
+    "SUNDAY": 0,
+    "MONDAY": 0,
+    "TUESDAY": 0,
+    "WEDNESDAY": 0,
+    "THURSDAY": 0,
+    "FRIDAY": 0,
+    "SATURDAY": 1
+  },
+  "3433": {
+    "SUNDAY": 0,
+    "MONDAY": 3,
+    "TUESDAY": 0,
+    "WEDNESDAY": 0,
+    "THURSDAY": 0,
+    "FRIDAY": 0,
+    "SATURDAY": 0
+  },
+  "4098": {
+    "SUNDAY": 5,
+    "MONDAY": 0,
+    "TUESDAY": 0,
+    "WEDNESDAY": 0,
+    "THURSDAY": 0,
+    "FRIDAY": 0,
+    "SATURDAY": 0
+  },
+  "5723": {
+    "SUNDAY": 0,
+    "MONDAY": 11,
+    "TUESDAY": 0,
+    "WEDNESDAY": 0,
+    "THURSDAY": 0,
+    "FRIDAY": 0,
+    "SATURDAY": 0
+  },
+  "9872": {
+    "SUNDAY": 4,
+    "MONDAY": 3,
+    "TUESDAY": 0,
+    "WEDNESDAY": 0,
+    "THURSDAY": 0,
+    "FRIDAY": 0,
+    "SATURDAY": 4
+  }
+}
