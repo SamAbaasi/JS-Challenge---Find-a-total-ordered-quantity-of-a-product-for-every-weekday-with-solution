@@ -1,4 +1,5 @@
-# Find a total ordered quantity of a product for every weekday
+# Find a total ordered quantity of a product for every weekday with solution
+## You can find solution in `solution.js` file
 
 You are working on an e-commerce platform which requires a new functionality to be implemented: calculating an total quantity of a given product ordered, grouped by days of week.
 
